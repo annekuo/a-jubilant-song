@@ -72,3 +72,7 @@
   color: #F8F0DD;
   background-color: transparent;
 }
+
+hr {
+  opacity: 0.2;
+  margin: 1rem 0;
