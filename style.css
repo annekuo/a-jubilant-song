@@ -12,6 +12,7 @@
   font-weight: 700;
   text-align: center;
   color: #504A71;
+  background-color: transparent;
 }
 
 .h2 {
@@ -68,4 +69,5 @@
 .title {
   width: 80vw;
   padding-top: 30vh;
+  background-color: transparent;
 }
