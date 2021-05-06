@@ -8,6 +8,7 @@
 
 .h1 {
   font-size: 28px;
+  font-weight: 700;
 }
 
 .h2 {
@@ -53,13 +54,13 @@
 
 .cover {
   height: 100vh;
-  background-image: url(background.jpg);
+  background-image: url("/background.jpg");
   z-index: -2;
 }
 
 .pattern {
   height: 100vh;
-  background-image: url(bg-words.svg);
+  background-image: url("/bg-words.svg");
   z-index: -1;
 
 .title {
