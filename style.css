@@ -54,7 +54,7 @@
 }
 
 .cover {
-  height: 90vh;
+  height: 80vh;
   background-image: url("background2.png");
   background-size: 100vw auto;
   z-index: -1;
