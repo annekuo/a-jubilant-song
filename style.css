@@ -56,7 +56,7 @@
 .cover {
   height: 80vh;
   background-image: url("background2.png");
-  background-size: 100vw auto;
+  background-size: auto 80vh;
   z-index: -1;
   display: flex;
   flex-direction: column;
