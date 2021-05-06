@@ -53,13 +53,13 @@
 
 .cover {
   height: 100vh;
-  background-image: background.jpg;
+  background-image: url(background.jpg);
   z-index: -2;
 }
 
 .pattern {
   height: 100vh;
-  background-image: bg-words.svg;
+  background-image: url(bg-words.svg);
   z-index: -1;
 
 .title {
