@@ -50,3 +50,18 @@
 .paragraph {
   padding-bottom: 10px;
 }
+
+.cover {
+  height: 100vh;
+  background-image: background.jpg;
+  z-index: -2;
+}
+
+.pattern {
+  height: 100vh;
+  background-image: bg-words.svg;
+  z-index: -1;
+
+.title {
+  width: 60vh;
+}
